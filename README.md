@@ -4,14 +4,14 @@ Amazon Test Automation Project with Java
 Project is based on these steps :
 
 Feature: Amazon.com
-  Scenario: Amazon.com Adding Product
-    Given User is on homepage
-    When Click accept cookies
-    When Click the search button
-    When Write product name
-    When Click search button
-    When Filter for Shipped by Amazon
-    When Filter for Apple
-    When Click the first product
-    When Add to Cart
-    When Check at cart page
+  Scenario: Amazon.com Adding Product \n
+    Given User is on homepage \n
+    When Click accept cookies \n
+    When Click the search button \n
+    When Write product name \n
+    When Click search button \n
+    When Filter for Shipped by Amazon \n
+    When Filter for Apple \n
+    When Click the first product \n
+    When Add to Cart \n
+    When Check at cart page \n
